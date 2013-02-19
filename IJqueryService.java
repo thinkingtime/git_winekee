@@ -14,7 +14,7 @@ public interface IJqueryService
 {
 	
 	/**
-	 * 修改购物车数量
+	 * 修改购物车数量22
 	 * @param session HttpSession , request HttpServletRequest
 	  * @return 购物车商品信息
 	 */
@@ -22,7 +22,7 @@ public interface IJqueryService
 	
 	
 	/**
-	 * 获取会员地址列表
+	 * 获取会员地址列表22
 	 * @param int memberid 会员id
 	 * @return List 地址列表
 	 * */
@@ -30,7 +30,7 @@ public interface IJqueryService
 	
 	/**
 	 * 根据id获取收货地址
-	 * @param id
+	 * @param id2
 	 * @return
 	 */
 	public MemberAddress getMemberAddrById(int addressId);
