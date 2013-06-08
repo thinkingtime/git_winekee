@@ -34,7 +34,7 @@ public interface TutorService {
 	public long addTutor(Tutor tutor);
 
 	/**
-	 * 辅导课程：查询单个记录1122
+	 * 辅导课程：查询单个记录
 	 * @param id
 	 * @return
 	 */
