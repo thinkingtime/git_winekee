@@ -24,10 +24,13 @@ public class ServItemQuery extends BaseQuery{
 	private Date endtime;
 
 	public Long getId() {
+		//come on
 		return id;
 	}
 
 	public void setId(Long id) {
+
+//come on
 		this.id = id;
 	}
 
